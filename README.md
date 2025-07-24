@@ -73,8 +73,7 @@ Update the README or any docs if your change requires it
 Thanks for helping improve the project!
 
 ## Contact Information
-For questions or feedback, contact [your@email.com].
+For questions or feedback, contact [sannysuarez4@email.com].
 
-## Acknowledgments
-- Thanks to [Library/Tool/Resource] for [specific contribution].
+
 
