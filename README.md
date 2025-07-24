@@ -24,13 +24,53 @@ A Kivy app for tracking and managing the stacking of broken tiles in sacks.
 ## Technologies Used
 - Kivy
 - Python
-- ...
 
-## Contributing
-If you'd like to contribute, please follow these guidelines...
+## 🤝 Contributing
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+Contributions are welcome and appreciated!
+
+To contribute to this project, please follow the steps below:
+
+### 🔧 How to Contribute
+
+1. **Fork** the repository
+2. **Clone** your fork:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+Create a new branch for your feature or fix:
+
+bash
+Copy
+Edit
+git checkout -b feature/your-feature-name
+Make your changes
+
+Commit with a clear message:
+
+bash
+Copy
+Edit
+git commit -m "Add: description of your change"
+Push to your fork:
+
+bash
+Copy
+Edit
+git push origin feature/your-feature-name
+Open a Pull Request to the main repository
+
+📌 Contribution Guidelines
+Keep pull requests focused and minimal
+
+Use clear and descriptive commit messages
+
+Follow the existing code style
+
+Test your changes if applicable
+
+Update the README or any docs if your change requires it
+
+Thanks for helping improve the project!
 
 ## Contact Information
 For questions or feedback, contact [your@email.com].
